@@ -1,0 +1,30 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.dropHere {
+	height: 100px;
+	width: 100px;
+	background: lightGray;
+	margin: 2em;
+	line-height: 100px;
+	text-align: center;
+	display: inline-block;
+}
+.img-box {
+	background: lightGray;
+	width: 80%;
+	overflow-x: auto;
+	overflow-y: auto;
+	margin: 0 2em;
+	white-space: nowrap;
+}
+.img {
+	max-height: 100px;
+	margin: 1em;
+}
+p{
+	width: 100px;
+	white-space: nowrap;
+}
